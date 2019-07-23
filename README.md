@@ -1,2 +1,2 @@
 # test
-a test project for wgb
+this is a test project create by wgb
